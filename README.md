@@ -11,7 +11,7 @@
 ## Install
 
 ```shellscript
-pnpm install && pnpm dev
+bun install && bun dev
 ```
 
 ## Backers
